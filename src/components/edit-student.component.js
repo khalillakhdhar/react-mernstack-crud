@@ -67,6 +67,7 @@ export default class EditStudent extends Component {
 
     // Redirect to Student List 
     this.props.history.push('/student-list')
+    // redirection vers url interne (rrd5) * pas encore documenté pour v6
   }
 
 
